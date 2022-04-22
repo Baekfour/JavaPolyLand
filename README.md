@@ -1,4 +1,4 @@
-# PolyLandDivide
+# JavaPolyLand
 
 Main함수에 하나로 묶여있던 PolyLand Project를 개별적으로 수정 및 유지 보수가 용이하도록 Method와 Class로 나눠보았습니다.
 
