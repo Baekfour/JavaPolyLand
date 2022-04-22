@@ -14,7 +14,7 @@ Project
 
 ㄴ FirstClass 처음 시작부분
 
-ㄴ Input 발권 후 이어서 할지 그만할지
+ㄴ Input 발권 후 이어서 할지
 
 ㄴ main 메인부분
 
