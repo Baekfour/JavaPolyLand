@@ -7,6 +7,7 @@ Main함수에 하나로 묶여있던 PolyLand Project를 개별적으로 수정 
 아직 완성되지 않은 상태입니다.
 
 Project
+
 ㄴ DisPriceType 우대사항에 따른 할인 방법
 
 ㄴ FeeType 나이에 따른 할인 방법
