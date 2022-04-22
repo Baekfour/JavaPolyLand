@@ -24,6 +24,5 @@ public class StaticValue {
 	static int TICKET_TYPE = 0;
 	static int DAY_TYPE = 1;
 	static int DISCOUNT_TYPE = 2;
-	static int PERSON_TYPE = 3, NOMAL_TICKET_QTY = 4, 
-			DISC_TICKET_QTY = 5, NORMAL_PRICE_SUM = 6, DISC_PRICE_SUM = 7, NON_DISCOUNT_TYPE = 8, SUM_PRICE = 9;
+	
 }
