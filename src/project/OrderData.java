@@ -3,6 +3,7 @@ package project;
 public class OrderData {
 
 		// commit해볼께
+		// github 웹에서 수정 후 커밋
 		private int inputTicketType = 0;
 		private int inputTicketTime = 0;
 		private int inputRegisterNum = 0;
