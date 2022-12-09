@@ -23,7 +23,7 @@ public class DisPriceType {
 			orderItem.disprice = pricetype.orderItem.price * 5 / 10;
 			break;
 		case 3:
-			orderItem.disprice = pricetype.orderItem.price * 5 / 10;
+			orderItem.disprice = pricetype.orderItem.price * 5 / 8;
 			break;
 		case 4:
 			orderItem.disprice = pricetype.orderItem.price * 49 / 100;
@@ -48,15 +48,15 @@ public class DisPriceType {
 			break;
 		case 4:
 			orderItem.disprice = pricetype.orderItem.price;
-			System.out.printf("ÈŞ°¡Àåº´ ¿ì´ë´Â Á¾ÇÕÀÌ¿ë±Ç¸¸ ÇÒÀÎµË´Ï´Ù\n");
+			System.out.printf("íœ´ê°€ì¥ë³‘ ìš°ëŒ€ëŠ” ì¢…í•©ì´ìš©ê¶Œë§Œ í• ì¸ë©ë‹ˆë‹¤\n");
 			break;
 		case 5:
 			orderItem.disprice = pricetype.orderItem.price;
-			System.out.printf("ÀÓ»êºÎ ¿ì´ë´Â Á¾ÇÕÀÌ¿ë±Ç¸¸ ÇÒÀÎµË´Ï´Ù\n");
+			System.out.printf("ì„ì‚°ë¶€ ìš°ëŒ€ëŠ” ì¢…í•©ì´ìš©ê¶Œë§Œ í• ì¸ë©ë‹ˆë‹¤\n");
 			break;
 		case 6:
 			orderItem.disprice = pricetype.orderItem.price;
-			System.out.printf("´ÙµÕÀÌ Çàº¹Ä«µå ¿ì´ë´Â Á¾ÇÕÀÌ¿ë±Ç¸¸ ÇÒÀÎµË´Ï´Ù\n");
+			System.out.printf("ë‹¤ë‘¥ì´ í–‰ë³µì¹´ë“œ ìš°ëŒ€ëŠ” ì¢…í•©ì´ìš©ê¶Œë§Œ í• ì¸ë©ë‹ˆë‹¤\n");
 			break;
 
 		}
